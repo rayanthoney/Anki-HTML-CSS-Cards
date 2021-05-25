@@ -4,7 +4,7 @@
 ## Anki HTML & CSS Cards for VSCode
 
 This is a card pack I created for myself to utilize Anki's SRS (Spaced Repetition System) method of memorisation. Inside you will find 
-[HTML & CSS](https://github.com/rayanthoney/Anki-HTML-CSS-Cards/blob/main/HTML%20&%20CSS.md) cards with questions of the HTML  **Elements**. _\(will be adding more as time permits\)_
+[HTML & CSS](https://github.com/rayanthoney/Anki-HTML-CSS-Cards/blob/main/HTML%20&%20CSS.md) cards with questions of the **HTML  Elements, which are created using tags.**. _\(will be adding more as time permits\)_
 
 ## Requirements
 
