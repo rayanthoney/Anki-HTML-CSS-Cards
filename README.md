@@ -1,6 +1,8 @@
 # Anki-HTML-CSS-Cards
 
-![image](./docs/img/240px-Anki-icon.svg.png)&nbsp;&nbsp;&nbsp;![image](./docs/img/128px-Visual_Studio_Code_1.35_icon.svg.png)
+<p align="center">
+  <img src="./assets/img/240px-Anki-icon.svg.png" width=32 height=32>&nbsp;&nbsp;&nbsp;<img src="./assets/img/128px-Visual_Studio_Code_1.35_icon.svg.png" width=32 height=32>
+</p>
 
 ## Anki HTML & CSS Cards for VSCode
 
