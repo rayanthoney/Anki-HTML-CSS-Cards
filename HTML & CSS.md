@@ -1,7 +1,7 @@
 # HTML & CSS
  
 ## What does __HTML__ _\<html\>_ stand for? 
- 
+
 The **HTML \<html\> element** represents the root (top-level element) of an HTML document, so it is also referred to as the root element. All other elements must be descendants of this element.
  
 ## What does __base__ _\<base\>_ stand for?
@@ -65,6 +65,7 @@ The **HTML _\<main\>_ element** represents the dominant content of the body of a
 The **HTML _\<nav\>_ element** represents a section of a page whose purpose is to provide navigation links, either within the current document or to other documents. Common examples of navigation sections are menus, tables of contents, and indexes.
  
 ## What does **Section** _\<section\>_  stand for?
+
 The **HTML _\<section\>_ element** represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it.
  
 ## What does **Blockquote** _\<blockquote\> stand for? 
@@ -134,7 +135,6 @@ The **HTML Bring Attention To element _\(<b\>)_** is used to draw the reader's a
 ## What does **bdi** _\<bdi\>_ stand for?
  
 The **HTML Bidirectional Isolate element _\(<bdi\>)_** tells the browser's bidirectional algorithm to treat the text it contains in isolation from its surrounding text.
- 
  
 ## What does **bdo** _\<bdo\>_ stand for?
  
