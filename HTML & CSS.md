@@ -6,7 +6,7 @@ The **HTML \<html\> element** represents the root (top-level element) of an HTML
  
 ## What does __base__ _\<base\>_ stand for?
  
-The Base \<base\>element specifies the base URL to use for all relative URLs in a document."HTML _\<base\>_.
+The Base \<base\>element specifies the base URL to use for all relative URLs in a document. HTML _\<base\>_.
  
 ## What does __Head__ _\<head\>_ stand for?
  
@@ -34,7 +34,7 @@ The **HTML _\<body\>_ element** represents the content of an HTML document. Ther
  
 ## What does **Address** _\<address\>_ stand for?
  
-The **HTML |_\<address\>_ element** indicates that the enclosed HTML provides contact information for a person or for an organization.
+The **HTML _\<address\>_ element** indicates that the enclosed HTML provides contact information for a person or for an organization.
  
 ## What does ** Article** _\<article\>_ stand for?
  
@@ -46,9 +46,9 @@ The **HTML _\<aside\>_ element** represents a portion of a document whose conten
  
 ## What does **Footer** _\<footer\>_ stand for?
  
-The **HTML \<footer\>_ element** represents a footer for its nearest section content or sectioning root element. A_\<footer\>_ typically contains information about the author of the section, copyright data or links to related documents. 
+The **HTML _\<footer\>_ element** represents a footer for its nearest section content or sectioning root element. A _\<footer\>_ typically contains information about the author of the section, copyright data or links to related documents. 
  
-## What does ** Header** _\<header\>_ stand for?
+## What does **Header** _\<header\>_ stand for?
  
 The **HTMl _\<header\>_ element** represents introductory content, typically a group of introductory or navigational aids. It may contain some heading elements but also a logo, a search form, an author name, and other elements.
  
@@ -78,7 +78,7 @@ The **HTML _\<dd\>_ element** provides the description, definition, or value for
  
 ## What does **div** _\<div\>_ stand for? 
  
-The **HTML Content Division element _\(<div\>)_ ** is a generic container for flow content. It has no effect on the content or layout until styled in some way using CSS or some kind of layout model like Flexbox is applied to its parent element.
+The **HTML Content Division element _\(<div\>)_** is a generic container for flow content. It has no effect on the content or layout until styled in some way using CSS or some kind of layout model like Flexbox is applied to its parent element.
  
 ## What does **dl** _\<dl\>_ stand for?
  
@@ -192,7 +192,7 @@ The **HTML Ruby Fallback Parenthesis _\(<rp\>)_** element is used to provide fal
  
 The **HTML Ruby Text _\<rt\>_ element** specifies the ruby text component of a ruby annotation, which is used to provide pronunciation, translation, or transliteration information for East Asian typography. The _\<rt\>_ element must always be contained within a _ruby_ element.
  
-## What does **rtc** _\<rtc\> _ stand for?
+## What does **rtc** _\<rtc\>_ stand for?
  
 The **HTML Ruby Text Container _\(<rtc\>)_ element** embraces semantic annotations of characters presented in ruby of rb elements used inside of _ruby_ element rb elements can have both pronunciation  _\(<rt\>)_ and semantic _\(<rtc\>)_ annotations.
  
@@ -242,7 +242,7 @@ The **HTML Variable element _\<var\>_** represents the name of a variable in a m
  
 ## What does **wbr** _\<wbr\>_ stand for?
  
-The **HTML _\<wbr\>_ element** represents a word break opportunity--a position within the text where the browser may optionally break a line, though its line-breaking rules would not otherwise create a break at that location.
+The **HTML _\<wbr\>_ element** represents a word break opportunity -- a position within the text where the browser may optionally break a line, though its line-breaking rules would not otherwise create a break at that location.
  
 ## What does **area** _\<area\>_ stand for?
  
@@ -258,7 +258,7 @@ The **HTML _\<map\>_ element** is used with area elements to define an image map
  
 ## What does **track** _\<track\>_ stand for?
  
-The **HTML _\<track\>_ element is used as a child of the media elements, _audio_ and _video_. It lets you specify timed text tracks (or time-based data), for example to automatically handle subtitles.
+The **HTML _\<track\>_ element** is used as a child of the media elements, _audio_ and _video_. It lets you specify timed text tracks (or time-based data), for example to automatically handle subtitles.
  
 ## What does **video** _\<video\>_ stand for?
  
@@ -298,7 +298,7 @@ The _svg_ element is a container that defines a new coordinate system and viewpo
  
 ## What does **math** _\<math\>_ stand for?
  
-The top-level element in **MathML** is _\<math\>_. Every valid **MathML** instance must be wrapped in _\<math\>_ tags. In addition you must not nest a second _\<math\>_ element in another, but you can have an arbitrary number of child elements in it.
+The top-level element in **MathML is _\<math\>_**. Every valid **MathML** instance must be wrapped in _\<math\>_ tags. In addition you must not nest a second _\<math\>_ element in another, but you can have an arbitrary number of child elements in it.
  
 ## What does **canvas** _\<canvas\>_ stand for?
  
@@ -328,9 +328,9 @@ The **HTML _\<ins\>_ element** represents a range of text that has been added to
  
  The **HTML _\<col\>_ element** defines a column within a table and is used for defining common semantics on all common cells. It is generally found within a _colgroup_ element.
  
- ## What does **colgroup88 _\<colgroup\>_ stand for.
+ ## What does **colgroup** _\<colgroup\>_ stand for.
  
- The **HTML _\<colgroup\>_element** defines a group of columns within a table.
+ The **HTML _\<colgroup\>_ element** defines a group of columns within a table.
  
  ## What does **table** _\<table\>_ stand for?
  
@@ -390,7 +390,7 @@ The **HTML _\<legend\>_ element** represents a caption for the content of its pa
  
 ## What does **meter** _\<meter\>_ stand for?
  
-The **HTML_\<meter\>_ element** represents either a scalar value within a known range or a fractional value.
+The **HTML _\<meter\>_ element** represents either a scalar value within a known range or a fractional value.
  
 ## What does **optgroup** _\<optgroup\>_ stand for?
  
